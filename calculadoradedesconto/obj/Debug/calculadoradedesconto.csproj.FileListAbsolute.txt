@@ -1,0 +1,10 @@
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\bin\Debug\calculadoradedesconto.exe.config
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\bin\Debug\calculadoradedesconto.exe
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\bin\Debug\calculadoradedesconto.pdb
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.csproj.AssemblyReference.cache
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.Form1.resources
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.Properties.Resources.resources
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.csproj.GenerateResource.cache
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.csproj.CoreCompileInputs.cache
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.exe
+C:\Users\diego.slira2\Documents\calculadora desconto\calculadoradedesconto\obj\Debug\calculadoradedesconto.pdb
